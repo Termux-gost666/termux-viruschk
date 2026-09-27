@@ -1,0 +1,1 @@
+import os; def scan_viruses(dir): ...; scan_viruses('/storage')
